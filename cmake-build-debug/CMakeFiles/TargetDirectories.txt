@@ -1,0 +1,3 @@
+C:/Users/jjvgo/OneDrive - FEI/AulasFEI/5º Periodo/CCP-130/Meu_projeto/cmake-build-debug/CMakeFiles/Meu_projeto.dir
+C:/Users/jjvgo/OneDrive - FEI/AulasFEI/5º Periodo/CCP-130/Meu_projeto/cmake-build-debug/CMakeFiles/edit_cache.dir
+C:/Users/jjvgo/OneDrive - FEI/AulasFEI/5º Periodo/CCP-130/Meu_projeto/cmake-build-debug/CMakeFiles/rebuild_cache.dir
