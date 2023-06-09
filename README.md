@@ -23,4 +23,3 @@ When you run the project, it will enter the main menu. Inside the main menu you 
 0. Finalize
 ## :writing_hand:Authors
 * [@jjvgomes14](https://github.com/jjvgomes14) - Complete Project
-Novo readme
