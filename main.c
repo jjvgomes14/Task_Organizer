@@ -14,7 +14,7 @@
 //Define o tamanho pras tabelas
 #define window_size 100
 
-//Roda o programa principal
+//Roda o programa
 int main( ){
     //Limpa a tela de execução
     clrscr();
